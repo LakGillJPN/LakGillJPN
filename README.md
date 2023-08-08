@@ -1,4 +1,9 @@
-### Hi there 👋
+# Lak Gill
+
+I'm a Full Stack Developer in Sapporo, Japan. :snowflake:
+
+
+
 
 <!--
 **LakGillJPN/LakGillJPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
