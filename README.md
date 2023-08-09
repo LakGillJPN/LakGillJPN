@@ -1,12 +1,14 @@
-# Lak Gill
+# Lak Gill :uk:  🇯🇵
 
-I'm a Full Stack Developer in Sapporo, Japan. :snowflake:
+I'm a Full Stack Developer in Sapporo, Japan :snowflake:
 
 🔭 I’m currently working on ... 
 
-- [GamerTalk](https://github.com/GamerTalk/Frontend) :video_game: - A game where users predict the results of upcoming J-League fixtures and earn points based on their accuracy.
-- [J-League Predictor](https://github.com/LakGillJPN/j-league-predictor) :soccer: - An application that connects gamers intending to learn a language. 
+- [GamerTalk](https://github.com/GamerTalk/Frontend) :video_game: - An application that connects gamers intending to learn a language. 
+- [J-League Predictor](https://github.com/LakGillJPN/j-league-predictor) :soccer: - A game where users predict the results of upcoming J-League fixtures and earn points based on their accuracy.
 
+
+<a href="https://www.linkedin.com/in/lak-gill/"> LinkedIn</a> 
 
 
 <!--
