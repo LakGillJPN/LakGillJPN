@@ -4,11 +4,12 @@ I'm a Full Stack Developer in Sapporo, Japan :snowflake:
 
 🔭 I’m currently working on ... 
 
-- [GamerTalk](https://github.com/GamerTalk/Frontend) :video_game: - An application that connects gamers intending to learn a language. 
-- [J-League Predictor](https://github.com/LakGillJPN/j-league-predictor) :soccer: - A game where users predict the results of upcoming J-League fixtures and earn points based on their accuracy.
+- ### [GamerTalk](https://github.com/GamerTalk/Frontend) :video_game: - An application that connects gamers intending to learn a language. 
+- ### [J-League Predictor](https://github.com/LakGillJPN/j-league-predictor) :soccer: - A game where users predict the results of upcoming J-League fixtures and earn points based on their accuracy.
 
+<br>
 
-<a href="https://www.linkedin.com/in/lak-gill/"> LinkedIn</a> 
+<a href="https://www.linkedin.com/in/lak-gill/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 
 <!--
