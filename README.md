@@ -2,6 +2,11 @@
 
 I'm a Full Stack Developer in Sapporo, Japan :snowflake:
 
+<div align="center">
+  <h1><a href="https://portfolio-lakgilljpn.vercel.app/">Visit My Portfolio</a></h1>
+</div>
+
+
 🔭 I’m currently working on ... 
 
 - ### [GamerTalk](https://github.com/GamerTalk/Frontend) :video_game: - An application that connects gamers intending to learn a language. 
